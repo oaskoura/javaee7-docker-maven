@@ -29,7 +29,8 @@ public class PersonDatabase {
                 new Person("Osama"),
                 new Person("Askoura"),
                 new Person("Jack"),
-                new Person("Mike")
+                new Person("Mike"),
+                new Person("Jane")
                 );
         
     }
