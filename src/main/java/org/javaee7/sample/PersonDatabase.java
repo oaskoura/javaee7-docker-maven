@@ -30,7 +30,8 @@ public class PersonDatabase {
                 new Person("Askoura"),
                 new Person("Jack"),
                 new Person("Mike"),
-                new Person("Jane")
+                new Person("Jane"),
+                new Person("Mary")
                 );
         
     }
