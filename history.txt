@@ -1,0 +1,500 @@
+   48  docker-machine ls
+   49  docker-machien
+   50  docker-machine
+   51  docker-machine kill mydocker
+   52  docker-machine ls
+   53  docker-machine rm mydocker
+   54  docker-machine ls
+   55  docker-machine create --drive virtualbox mydocker
+   56  docker-machine create --drive virtualbox mydocker
+   57  docker-machine create --driver virtualbox mydocker
+   58  virtualbox
+   59  virtualbox --help
+   60  clear
+   61  docker-machine ls
+   62  docker-machine ip mydocker
+   63  docker-machine rm mydocker
+   64  docker-machine create --driver virtualbox dockerdaemon
+   65  docker-machine ls
+   66  docker-machine ip dockerdaemon
+   67  docker-machine env dockerdaemon
+   68  $(docker-machine env dockerdaemon)
+   69  eval $(docker-machine env dockerdaemon)
+   70  ls
+   71  git clone https://github.com/javaee-samples/javaee7-docker-maven.git
+   72  ls
+   73  cd javaee7-docker-maven/
+   74  ls
+   75  mvn
+   76  vi pom.xml 
+   77  ls
+   78  cd ..
+   79  ls
+   80  ls Downlaods
+   81  ls Downloads
+   82  ls
+   83  ls ../..
+   84  ls ..
+   85  cd ..
+   86  ls
+   87  cd Downloads/
+   88  ls
+   89  pwd
+   90  cd apache-maven-3.5.2
+   91  ls
+   92  pwd
+   93  export PATH=/Users/u6066832/Downloads/apache-maven-3.5.2:$PATH
+   94  mvn
+   95  mvn
+   96  export PATH=/Users/u6066832/Downloads/apache-maven-3.5.2/bin:$PATH
+   97  mvn
+   98  ls
+   99  cd ..
+  100  ls
+  101  cd ../
+  102  ls
+  103  cd eclipse-workspace/
+  104  ls
+  105  cd javaee7-docker-maven/
+  106  ls
+  107  mvn package -Pdocker
+  108  mvn install -Pdocke
+  109  çç
+  110  mvn install -Pdocker
+  111  docker-machine ip dockerdaemon
+  112  ls
+  113  ls
+  114  ls
+  115  cd src
+  116  ls
+  117  ls
+  118  pwd
+  119  cd main
+  120  ls
+  121  ls
+  122  pwd
+  123  cd ../..
+  124  s
+  125  ls
+  126  cd ..
+  127  ls
+  128  cd ..
+  129  ls
+  130  cd eclipse-workspace/
+  131  ls
+  132  git pull
+  133  git --help
+  134  git log https://github.com/oaskoura/javaee7-docker-maven/tree/Sprint1
+  135  git
+  136  git branch
+  137  git login
+  138  git config --global user.name "Osama Askoura"
+  139  git config --help
+  140  clear
+  141  git clone git@github.com:oaskoura/javaee7-docker-maven:Sprint1.git
+  142  ls
+  143  git clone git@github.com:oaskoura/javaee7-docker-maven.git
+  144  git clone git@github.com:oaskoura/javaee7-docker-maven.git sprint-1
+  145  git clone git@github.com:oaskoura/javaee7-docker-maven.git sprint-1
+  146  ls
+  147  git config --global user.email "oaskoura@msn.com"
+  148  git clone git@github.com:oaskoura/javaee7-docker-maven.git sprint-1
+  149  git clone git@github.com:oaskoura/javaee7-docker-maven.git sprint-1/
+  150  ls
+  151  ls -al ~/.ssh
+  152  ls
+  153  git clone Permission denied (publickey).
+  154  clear
+  155  ssh-keygen -t rsa -b 4096 -C "oaskoura@msn.com"
+  156  eval "$(ssh-agent -s)"
+  157  ssh-add -K ~/.ssh/id_rsa
+  158  ssh-add -K /Users/u6066832/.ssh/id_rsa
+  159  ssh-add -K /Users/u6066832/.ssh/tes
+  160  ssh-add -K ~/.ssh/tes
+  161  ssh-add -K ~/.ssh/id_rsa/tes
+  162  ls
+  163  ls -a
+  164  ssh-add -K ~/tes
+  165  ls
+  166  ls tes
+  167  ls tes/*
+  168  ls
+  169  cd tes
+  170  ls
+  171  cd tes
+  172  ls
+  173  vi tes
+  174  ls
+  175  ssh-add -K tes
+  176  s
+  177  ls
+  178  pbcopy tes.pub
+  179  ls
+  180  git clone git@github.com:oaskoura/javaee7-docker-maven.git sprint-1
+  181  ls
+  182  cd sprint-1
+  183  ls
+  184  cd src
+  185  ls
+  186  git branch
+  187  ls
+  188  cd ..
+  189  ls
+  190  cd ..
+  191  ls
+  192  git clone git@github.com:oaskoura/javaee7-docker-maven:Sprint1.git sprint-1
+  193  git clone git@github.com:oaskoura/javaee7-docker-maven:Sprint1.git sprint-test
+  194  git branch sprint1
+  195  ls
+  196  cd sprint-1/
+  197  ls
+  198  ls -a
+  199  git branch
+  200  git branch sprint-1
+  201  ls
+  202  git branch
+  203  git checkout sprint-1
+  204  git checkout master
+  205  it add .
+  206  git add .
+  207  git commit -m "first commit in sprint 1"
+  208  git status
+  209  git --help
+  210  git log
+  211  git diff
+  212  git status
+  213  git branch
+  214  git branch --help
+  215  1
+  216  git branch -d sprint-1
+  217  git branch
+  218  git branch sprint-1
+  219  git branch
+  220  git branch checkout sprint-1
+  221  git branch
+  222  git checkout sprint-1
+  223  git branch
+  224  git checkout master
+  225  ls
+  226  git commit -m "added Askoura to database"
+  227  git log
+  228  ls
+  229  git log
+  230  !
+  231  ls
+  232  ks
+  233  ls
+  234  ls src
+  235  ls
+  236  git branch
+  237  git branch -d checkout
+  238  git branch -d sprint-1
+  239  ls
+  240  git branch
+  241  git master
+  242  git add .
+  243  git commit -m "added Askoura to db":
+  244  git log
+  245  clear
+  246  git status
+  247  git push origin master
+  248  clear
+  249  git push origin master
+  250  ls
+  251  cd src
+  252  pwd
+  253  git commit -m "added askoura to db:
+  254  git commit -m "added askoura to db"
+  255  git add .
+  256  git log
+  257  ls
+  258  git push origin master
+  259  ls
+  260  clear
+  261  git
+  262  clear
+  263  git add .
+  264  ls
+  265  pwd
+  266  cd ..
+  267  ls
+  268  pwd
+  269  git add .
+  270  git commit -m "adding askoura to db"
+  271  git status
+  272  git log
+  273  git diff 
+  274  git diff 65e8eb599be0f3befc40ca581a45e40e2df80982 3ba3b57672fc22ab860c791d7592d72f40b4db0e
+  275  !
+  276  ls
+  277  git push origin master
+  278  ls
+  279  git add .
+  280  git commit -m "adding jack to db"
+  281  git push origin master
+  282  ls
+  283  git branch sprint-2
+  284  git branch
+  285  git checkout sprint-2
+  286  git add .
+  287  git commit -m "added mike to db"
+  288  git merge --help
+  289  l
+  290  ls
+  291  git diff sprint-2 master
+  292  git merge sprint-2 master
+  293  git branch
+  294  git push origin sprint-2
+  295  git sprint-2 master
+  296  git diff sprint-2 master
+  297  git branch
+  298  git checkout master
+  299  git merge sprint-2
+  300  git branch
+  301  git diff sprint-2 master
+  302  git push origin master
+  303  git branch sprint-23
+  304  ls
+  305  git branch
+  306  git branch -d sprint-2
+  307  git branch
+  308  git checkout sprint-23
+  309  git add .
+  310  git commit "added jane to db":
+  311  git commit "added jane to db"
+  312  git commit -m "added jane to db"
+  313  ls
+  314  git diff sprint-23 master
+  315  ls
+  316  git checkout master
+  317  git merge sprint-23
+  318  git push origin master
+  319  ping google.com
+  320  clear
+  321  s
+  322  ls
+  323  cd eclipse-workspace/
+  324  ls
+  325  ssh-keygen -t rsa -b 4096 -C "osama.askoura@thomsonreuters.com"
+  326  ls
+  327  eval "$(ssh-agent -s)"
+  328  ssh-add -K tr-ssh-key
+  329  pwd
+  330  emacs tr-ssh-key.pub 
+  331  cd eclipse-workspace/
+  332  ls
+  333  vi tr-ssh-key.pub 
+  334  l
+  335  ls
+  336  ls
+  337  ls
+  338  ls
+  339  cp -r ~/Downloads/com .
+  340  ls
+  341  cd com
+  342  ls
+  343  cd reuters/
+  344  ls
+  345  cd ..
+  346  cd reuters/
+  347  ls
+  348  cd wireengine
+  349  ls
+  350  ls
+  351  cd ..
+  352  ls
+  353  cd ..
+  354  ls
+  355  cd ..
+  356  ls
+  357  cp -r ~/Downloads/com-2/ .
+  358  ls
+  359  rm -rf com
+  360  ls
+  361  ls
+  362  ls
+  363  cp -r ~/Downloads/com-2/ .
+  364  ls
+  365  ls
+  366  pwd
+  367  cp -r ~/Downloads/com-2/ .
+  368  ls
+  369  ls
+  370  ls
+  371  ls
+  372  cd reuters/
+  373  ls
+  374  mkdir com
+  375  ls
+  376  rm -rf com
+  377  ls
+  378  cd ..
+  379  ls
+  380  mkdir com
+  381  ls
+  382  mv 12.6_changes.txt com/.
+  383  mv reuters/ com/.
+  384  ls
+  385  cd com/
+  386  ls
+  387  ls
+  388  cd reuters/
+  389  s
+  390  ls
+  391  cd wireengine/
+  392  ls
+  393  ls
+  394  cd factfinder/
+  395  ls
+  396  grep -i "main" */*
+  397  grep -i "static main" */*
+  398  clear
+  399  ls
+  400  ls */*
+  401  clear
+  402  ls 
+  403  ls *
+  404  clear
+  405  ls
+  406  ls core
+  407  grep -i "static main" */*.java
+  408  grep -i "static main" */*
+  409  grep -i "�c main" */*
+  410  clear
+  411  grep -i "static void main" */*.java
+  412  ls
+  413  cd ../
+  414  lks
+  415  ks
+  416  ls
+  417  pwd
+  418  cd ..
+  419  ls
+  420  cd ..
+  421  ls
+  422  cd ..
+  423  ls
+  424  cd ..
+  425  ls
+  426  cd Downloads/
+  427  ls
+  428  clear
+  429  ls
+  430  java -jar WireEngineFactFinder.jar.12.6.39 
+  431  mkdir com
+  432  ls
+  433  ls
+  434  s
+  435  ls
+  436  pwd
+  437  cd ../
+  438  ls
+  439  cd eclipse-workspace/
+  440  ls
+  441  cd come
+  442  cd com
+  443  ls
+  444  vi testStory.txt
+  445  ls
+  446  cd bin
+  447  ls
+  448  cd ..
+  449  ls
+  450  cd reuters
+  451  ls
+  452  cd wireengine/
+  453  ls
+  454  cd factfinder/
+  455  ls
+  456  cd ../../..
+  457  ls
+  458  ls
+  459  s
+  460  ls
+  461  cd ..
+  462  ls
+  463  cd WEFF\ 12.6/
+  464  l
+  465  ls
+  466  ls -a
+  467  vi .classpath 
+  468  ls
+  469  ls
+  470  ls -a
+  471  vi .classpath 
+  472  vi .classpath 
+  473  vi exported_jar.jardesc 
+  474  ls
+  475  vi .classpath 
+  476  mv .classpath  .classpath.bak
+  477  ls
+  478  vi .project 
+  479  ls
+  480  cd ..
+  481  ls
+  482  cd com
+  483  ls
+  484  cd ..
+  485  ls
+  486  mv com/testStory.txt WEFF12.6/stories/.
+  487  ls
+  488  ls
+  489  cd WEFF12.6/
+  490  ls
+  491  cd so
+  492  cd stories/
+  493  ls
+  494  vi testStory.txt 
+  495  ls
+  496  pwd
+  497  cp ~/ShareBox/stories/* .
+  498  s
+  499  ls
+  500  cp ~/ShareBox/stories/* .
+  501  ls
+  502  ls
+  503  cd ..
+  504  ls
+  505  cd ..
+  506  ls
+  507  ls
+  508  cd javaee7-docker-maven/
+  509  ls
+  510  cd ..
+  511  ls
+  512  cd sprint-1/
+  513  ls
+  514  git
+  515  git branch
+  516  git log
+  517  git merge
+  518  ls
+  519  git push
+  520  ls
+  521  git branch
+  522  git checkout sprint-23
+  523  docker images
+  524  ls
+  525  mvn package -Pdocker
+  526  ls
+  527  mvn
+  528  mvn
+  529  mvn --version
+  530  git
+  531  git branch
+  532  git commit 
+  533  git add
+  534  git add .
+  535  git commit -m "added mary"
+  536  git log
+  537  git push
+  538  git push
+  539  git merge 
+  540  git merge --help
+  541  git merge origin sprint-23
+  542  git merge sprint-23 origin
+  543  git log
+  544  ;s
+  545  history
+  546  ls
+  547  history > history.txt

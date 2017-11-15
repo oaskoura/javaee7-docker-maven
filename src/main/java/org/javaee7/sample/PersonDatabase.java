@@ -31,7 +31,9 @@ public class PersonDatabase {
                 new Person("Jack"),
                 new Person("Mike"),
                 new Person("Jane"),
-                new Person("Mary")
+                new Person("Mary"),
+                new Person("Katie"),
+                new Person("Sprint-55")
                 );
         
     }
